@@ -1,0 +1,13 @@
+.chess {
+  width: 100%;
+  min-height: 500px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn,
+.form-control {
+  width: auto;
+}
